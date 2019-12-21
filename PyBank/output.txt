@@ -1,0 +1,7 @@
+Financial Analysis 
+----------------- 
+The total number of months: 86. 
+The total Profit/Losses: $38382578. 
+The average change: $-2288.2. 
+The maximum is $1926159, and occurred on Feb-2012. 
+The minimum is $-2196167, and occurred on Sep-2013. 
